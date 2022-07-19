@@ -1,2 +1,2 @@
 # Atividade-senai
-Foram adcionados imagens, todas foram movidas para a pasta imagens.
+Arquivos foram movidos para a pasta arquivos antes de serem enviados para o ramo principal.
